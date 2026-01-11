@@ -10,3 +10,11 @@ o	Division
 
 Number_1 = input("Enter the first number : ")
 Number_2 = input("Enter the second number : ")
+
+Addition = int(Number_1) + int(Number_2)
+print("Addition : ", Addition)
+
+Subtraction = int(Number_1)-int(Number_2)
+print("Subtraction : ", Subtraction)
+
+

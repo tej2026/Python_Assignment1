@@ -4,3 +4,6 @@ Problem Statement: Write a Python program that:
 2.  Concatenates the first name and last name into a full name.
 3.  Prints a personalized greeting message using the full name."""
 
+First_Name = input("Enter your First name : ")
+Last_Name = input("Enter your Last name : ")
+

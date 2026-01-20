@@ -7,3 +7,5 @@ Problem Statement: Write a Python program that:
 First_Name = input("Enter your First name : ")
 Last_Name = input("Enter your Last name : ")
 
+Full_Name = First_Name + " " + Last_Name
+print(f"Hello, {Full_Name}!, Welcome to the Python Program")
